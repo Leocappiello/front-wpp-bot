@@ -1,0 +1,9 @@
+input {
+    border: 0;
+    height: 2.2rem;
+    border-radius: 5px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0.5rem 3rem;
+    width: calc(100% - 3rem);
+    margin: 1rem 0;
+}

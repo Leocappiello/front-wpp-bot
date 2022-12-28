@@ -1,0 +1,11 @@
+.iconsection {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: space-around;
+}
+
+.iconsection > * {
+    padding: 0.8rem;
+    margin: 0;
+}
